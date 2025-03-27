@@ -49,21 +49,5 @@ Here are some previews of the Coffee Shop website:
 ![Blog Page](assets/images/blog.png)
 
 
-## How to Contribute
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Added new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Open a Pull Request.
-
 ## License
 This project is open-source and available under the MIT License.
